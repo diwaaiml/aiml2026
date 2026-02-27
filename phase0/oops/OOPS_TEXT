@@ -1,0 +1,20 @@
+Major OOP Concepts (Very Short)
+Class – Blueprint to create objects
+Object – Real instance created from class
+Encapsulation – Protecting internal data
+Abstraction – Showing only necessary details
+Inheritance – Child reuses parent features
+Polymorphism – Same action, different behavior
+
+Cricket Story – “The Team of Code”
+The coach designs a Player template (Class) and creates real players like Virat and Rohit (Objects).
+Each player’s fitness and strategy are kept private inside them (Encapsulation), while fans only see runs and wickets on the scoreboard (Abstraction).
+A young player inherits basic skills from the senior coach (Inheritance) but bats differently — a bowler bowls, a batsman bats, an all-rounder does both (Polymorphism).
+
+How Story Connects to OOP
+Class → Player template
+Object → Virat, Rohit
+Encapsulation → Fitness & strategy hidden
+Abstraction → Scoreboard shows only results
+Inheritance → Junior learns from senior
+Polymorphism → Different players perform differently
